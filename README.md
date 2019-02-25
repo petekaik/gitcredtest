@@ -1,2 +1,2 @@
 # gitcredtest
-Testing for gitbash and credential store
+Testing for git integration from various IDEs & CLIs
